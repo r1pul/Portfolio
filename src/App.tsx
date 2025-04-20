@@ -82,7 +82,7 @@ function App() {
                className="p-2 hover:text-purple-300 transition">
               <Linkedin size={24} />
             </a>
-            <a href="/Ripul_Gautam_Resume.pdf" download="Ripul_Gautam_Resume.pdf"
+            <a href="https://drive.google.com/file/d/11E9PIDCW-GADYcrV-FKZHtb0UyDQFNfk/view?usp=sharing" download="Ripul_Gautam_Resume.pdf"
                className="p-2 hover:text-purple-300 transition">
               <FileDown size={24} />
             </a>
@@ -168,7 +168,7 @@ function App() {
             <div className="bg-indigo-900/50 p-6 rounded-xl hover:transform hover:scale-105 transition duration-300">
               <h3 className="text-xl font-semibold mb-2">Sudoku Solver Online</h3>
               <p className="text-purple-200 mb-4">HTML, CSS, JavaScript</p>
-              <a href="https://github.com/r1pul/sudoku-solver-"  
+              <a href="https://github.com/r1pul/sudoku-solver-" 
                  target="_blank" 
                  rel="noopener noreferrer"
                  className="inline-flex items-center text-purple-300 hover:text-purple-100">
